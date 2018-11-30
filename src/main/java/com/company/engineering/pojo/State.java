@@ -1,4 +1,4 @@
-package com.company.engineering;
+package com.company.engineering.pojo;
 
 public enum State {
 

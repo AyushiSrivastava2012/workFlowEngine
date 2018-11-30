@@ -1,4 +1,4 @@
-package com.company.engineering;
+package com.company.engineering.pojo;
 
 import java.util.List;
 

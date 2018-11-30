@@ -1,8 +1,9 @@
-package com.company.engineering;
+package com.company.engineering.pojo;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
-import com.company.engineering.State;
+
+import com.company.engineering.pojo.State;
 @Document
 public class GenericPojo {
 
